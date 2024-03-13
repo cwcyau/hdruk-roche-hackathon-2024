@@ -22,10 +22,10 @@ The hackathon will take place over a weekend between 17-19 April 2024.
 |      |13:00|15:30|Group Work|
 |      |15:30|16:30|Joshua Payne Talk?|
 |Thu|09:15|09:45|Morning Huddle|
-||09:45|12:00|Group Work + Submission|
-|      |12:00|13:00|Lunch|
-|      |13:00|13:30|Photos|
-|      |13:30|15:00|Roche Presentations|
+||09:45|12:30|Group Work + Submission|
+|      |12:30|13:30|Lunch|
+|      |13:30|14:00|Photos|
+|      |14:00|15:00|Roche Project Presentations|
 |      |15:00|16:00|Results and Group Feedback|
 
 
