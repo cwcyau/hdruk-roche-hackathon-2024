@@ -4,7 +4,7 @@ The following is event information for registered participants.
 
 ## Dates
 
-The hackathon will take place over a weekend between 17-19 April 2024. 
+The hackathon will take place between 17-19 April 2024. 
 
 ## Timetable
 
