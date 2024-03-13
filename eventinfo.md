@@ -48,10 +48,5 @@ For this hackathon, you will need:
 2. Some basic stationery,
 3. (Optional) Access to your own university high-performance computing facilities.
 
-### Cancellations
+### Pre-hackathon preparation
 
-If circumstances beyond our control lead to an event cancellation for any reason, all participants will be alerted at the earliest opportunity. However, participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HDRUK to refund any incurred costs if a cancellation occurs.
-
-## Contact
-
-For any enquiries, please contact the Health Data Research UK PhD Programme [phd@hdruk.ac.uk](phd@hdruk.ac.uk).
