@@ -28,7 +28,7 @@ Thanks to sponsorship by Roche and support from Health Data Research UK, we are 
 
 For registered participants, further information about the event is given [here](eventinfo.md).
 
-### Cancellations
+## Cancellations
 
 If circumstances beyond our control lead to an event cancellation for any reason, any registration fees will be refunded. However, participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HDRUK to refund any incurred costs if a cancellation occurs.
 
