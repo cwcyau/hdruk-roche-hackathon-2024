@@ -2,6 +2,16 @@
 
 This hackathon is being convened by [Health Data Research UK](http://www.hdruk.ac.uk) in partnership with [Roche](http://www.roche.com) and enabled through [UKRI Turing AI Fellowship](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships) awarded to the lead organiser, [Professor Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) at the University of Oxford. It forms part of the immersion week series of the [HDRUK-Turing Wellcome PhD programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).
 
+[About the Event](files/about.md)
+
+[Event Information](files/eventinfo.md)
+
+Hackathon Details:
+
+- [Problem Description](files/problem.md)
+- [Setting up your Saturn Cloud account](setup.md)
+- [Evaluation](evaluation.md)
+
 ## What is the purpose of the Hackathon?
 
 Following the success of the HDRUK-Roche Summer School in 2023, Health Data Research UK together with Roche are back this Spring 2024 for a new event! Our hackathon will involve talks by Roche, HDRUK scientists and group research activities. The theme of the hackathon will be "Protein Sequence Modelling". Prior knowledge of these areas is not a pre-requisite but participants should be competent programmers, have experience of analysing data and developing analytical methods.
