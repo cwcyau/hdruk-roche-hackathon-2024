@@ -2,7 +2,11 @@
 
 ## What is the purpose of the Hackathon?
 
-Following the success of the HDRUK-Roche Summer School in 2023, Health Data Research UK together with Roche are back this Spring 2024 for a new event! Our hackathon will involve talks by Roche, HDRUK scientists and group research activities. The theme of the hackathon will be "Protein Sequence Modelling". Prior knowledge of these areas is not a pre-requisite but participants should be competent programmers, have experience of analysing data and developing analytical methods.
+Following the success of the HDRUK-Roche Summer School in 2023, Health Data Research UK together with Roche are back this Spring 2024 for a new event! Our hackathon will involve talks by Roche, HDRUK scientists and group research activities. 
+
+The theme of the hackathon will be "Protein Sequence Modelling". 
+
+Prior knowledge of these areas is not a pre-requisite but participants should be competent programmers, have experience of analysing data and developing analytical methods.
 
 ## Instructors
 
@@ -32,10 +36,6 @@ If you wish to apply for internships, you will need to be eligible to work in th
 ## How much will it cost me to attend?
 
 Thanks to sponsorship by Roche and support from Health Data Research UK, we are able to offer the event with no registration fee. However, participants will be required to arrange their own transport and accommodation unless otherwise with HDRUK. A limited number of bursaries maybe available.
-
-## Event Information
-
-For registered participants, further information about the event is given [here](eventinfo.md).
 
 ## Cancellations
 
