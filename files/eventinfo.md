@@ -28,20 +28,19 @@ The hackathon will take place between 17-19 April 2024.
 |      |14:00|15:00|Roche Project Presentations|
 |      |15:00|16:00|Results and Group Feedback|
 
-
-### Venue
+## Venue
 
 The hackathon will take place in the Burroughs Room at the [Wellcome Collection](https://wellcomecollection.org/) which located near Euston Station in Central London.
 
-### Accommodation
+## Accommodation
 
 Participants will be expected to arrange their own accommodation during the hackathon unless otherwise arranged with HDRUK.
 
-### Meals
+## Meals
 
 Light refreshments and lunch will be available during the hackathon activities. Participants are responsible for their own meal arrangements at all other times.
 
-### What will I need to bring or arrange in advance?
+## What will I need to bring or arrange in advance?
 
 For this hackathon, you will need:
 
@@ -49,6 +48,3 @@ For this hackathon, you will need:
 2. Some basic stationery,
 3. (Optional) Access to your own university high-performance computing facilities.
 
-### Pre-hackathon preparation
-
-[Setting up your Saturn Cloud Environment](files/setup.md)
