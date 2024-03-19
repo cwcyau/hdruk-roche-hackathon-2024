@@ -51,3 +51,4 @@ For this hackathon, you will need:
 
 ### Pre-hackathon preparation
 
+[Setting up your Saturn Cloud Environment](files/setup.md)
