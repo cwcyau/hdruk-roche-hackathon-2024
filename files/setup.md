@@ -10,7 +10,11 @@ You should have received and accepted an invite from HDRUK to the Saturn Cloud. 
 
 2. On the left side menu pane, make sure `Organization` is set to `HDRUK`
 
+  <img src='../images/saturn-user.jpg' width='260'>
+
 3. Under the resources section find: `Roche-Hackathon / ParticipantTemplateCPU`
+
+  <img src='../images/saturn-resources.jpg' width='260'>
 
 4. After clicking on this resource open the `manage` tab and scroll down to the `Clone Resource` section and then click `clone as a Python server`
 
