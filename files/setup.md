@@ -20,6 +20,8 @@ You should have received and accepted an invite from HDRUK to the Saturn Cloud. 
 
 5. Click the `Start` button - it may take up to 5 minutes for the server to start up.
 
+  <img src='../images/saturn-jupyter.jpg' width='360'>
+
 6. Once it says `running` click the blue Jupyter Lab button.
 
 7. Open a terminal within the web browser
