@@ -12,6 +12,7 @@ This hackathon is being convened by [Health Data Research UK](http://www.hdruk.a
 
   - [Problem Description](files/problem.md)
   - [Setting up your Saturn Cloud account](files/setup.md)
+  - [Different ways of using Saturn Cloud](files/waysofworking.md)
   - [Evaluation](files/evaluation.md)
 
 ## Contact
