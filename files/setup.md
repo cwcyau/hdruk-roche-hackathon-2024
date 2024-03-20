@@ -1,6 +1,6 @@
 # Saturn Cloud Environment Setup
 
-This page provides instruction on setting up your Saturn Cloud environment.
+This page provides instruction on setting up your Saturn Cloud environment which we will be using during this hackathon.
 
 ## Invitation
 
