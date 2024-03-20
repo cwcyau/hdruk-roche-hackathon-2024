@@ -11,7 +11,8 @@ This hackathon is being convened by [Health Data Research UK](http://www.hdruk.a
 **Pre-Hackathon Preparation**: Information about preparing for the hackathon.
 
   - [Problem Description](files/problem.md)
-  - [Saturn Cloud Terms of Use](terms.md)
+  - [Skills You Will Need](files/skills.md)
+  - [Saturn Cloud Terms of Use](files/terms.md)
   - [Setting up your Saturn Cloud account](files/setup.md)
   - [Different ways of using Saturn Cloud](files/waysofworking.md)
 
