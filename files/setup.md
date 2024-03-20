@@ -36,8 +36,9 @@ After completing registration on Saturn Cloud, please follow these instructions 
 
 8. Check that your environment is working by running the following commands:
 
-`cd RocheHackathon2024
-python src/train.py`
+`cd RocheHackathon2024`
+
+`python src/train.py`
 
 9. You should see the baseline model training for 10 epochs and then evaluating (for two separate datasets). Results will be saved in `outputs/`
 
