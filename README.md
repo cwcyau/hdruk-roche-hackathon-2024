@@ -4,15 +4,15 @@ This hackathon is being convened by [Health Data Research UK](http://www.hdruk.a
 
 ## Contents
 
-[About the Event](files/about.md)
+**[About the Event](files/about.md)**: Learn about why we set up this event.
 
-[Event Information](files/eventinfo.md)
+**[Event Information](files/eventinfo.md)**: Find information about the organisation of the event.
 
-Hackathon Details:
+**Hackathon Details**: Information about the scientific content.
 
-- [Problem Description](files/problem.md)
-- [Setting up your Saturn Cloud account](files/setup.md)
-- [Evaluation](files/evaluation.md)
+  - [Problem Description](files/problem.md)
+  - [Setting up your Saturn Cloud account](files/setup.md)
+  - [Evaluation](files/evaluation.md)
 
 ## Contact
 
