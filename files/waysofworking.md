@@ -2,7 +2,9 @@
 
 ## Connecting via browser
 
-The easiest way is to work in your browser which provides a Jupyter Notebook interface, terminal and file browsers and editors:
+The easiest way is to work in your browser which provides a Jupyter Notebook interface, terminal and file browsers and editors.
+
+  <img src='../images/saturn-notebook.jpg' width='460'>
 
 ## Connecting to Saturn Cloud via ssh
 
@@ -21,6 +23,8 @@ You can ssh in via a terminal/command line tool eg:
 `​ssh  w-ssh-judew-testrochehackathon-b4ce170427574f7e9c8f700e3a3c1535@ssh.community.saturnenterprise.io`
 
 Copy the SSH address using the clipboard button on Saturn Cloud:
+
+  <img src='../images/saturn-ssh.jpg' width='360'>
 
 ## Connecting your IDE (PyCharm or VSCode) via SSH
 
