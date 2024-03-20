@@ -48,5 +48,6 @@ For this hackathon, you will need:
 
 1. A personal laptop,
 2. Some basic stationery,
-3. (Optional) Access to your own university high-performance computing facilities.
+3. Signed the HDRUK Participation Agreement,
+4. (Optional) Access to your own university high-performance computing facilities.
 
