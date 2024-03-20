@@ -2,9 +2,15 @@
 
 This page provides instruction on setting up your Saturn Cloud environment.
 
-You should have received and accepted an invite from HDRUK to the Saturn Cloud. This will request that you create a Saturn Cloud account with an associated user name and password.
+## Invitation
 
-## Starting
+You will receive an invitation from HDRUK to join Saturn Cloud in approximately a week in advance of the hackathon.
+
+You should accept the invite which will request that you create a Saturn Cloud account with an associated user name and password.
+
+## Test Run
+
+After completing registration on Saturn Cloud, please follow these instructions to ensure that you are able to set up the correct environment:
 
 1. Log in to [Saturn Cloud](https://saturncloud.io/) using the user name and password you created after accepting the invitation.
 
