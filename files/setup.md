@@ -6,7 +6,7 @@ This page provides instruction on setting up your Saturn Cloud environment which
 
 You will receive an invitation from HDRUK to join Saturn Cloud in approximately a week in advance of the hackathon.
 
-*You must signed and return the Immersion Week Participation Agreement to HDRUK before you will gain access to Saturn Cloud.*
+*You must have signed and return the Immersion Week Participation Agreement to HDRUK before you will gain access to Saturn Cloud.*
 
 You should accept the invite which will request that you create a Saturn Cloud account with an associated user name and password.
 
