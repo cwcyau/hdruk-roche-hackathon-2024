@@ -8,7 +8,7 @@ The easiest way is to work in your browser which provides a Jupyter Notebook int
 
 ## Connecting to Saturn Cloud via ssh
 
-Follow [these instructions](https://saturncloud.io/docs/using-saturn-cloud/ide_ssh/) to connect to your Saturn Cloud environment via ssh on your machine.
+Follow [these instructions](https://saturncloud.io/docs/using-saturn-cloud/ide_ssh/) to connect to your Saturn Cloud instance via ssh on your machine.
 
 
 If you already have an SSH key on the machine you want to connect with (for example your laptop) you can use your existing public ssh key to verify this machine for connecting to your Saturn Cloud instance. SSH keys are typically stored in ~/.ssh (where ~ is a shortcut to the user home directory).
