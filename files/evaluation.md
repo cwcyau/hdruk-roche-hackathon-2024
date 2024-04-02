@@ -2,7 +2,7 @@
 
 For the duration of the Hackathon, you have access to 19 separate protein experiment files which you can use for developing your model and training pipeline. Each experiment file contains the fitness measurements for many variants of the same protein. In most cases, each variant is created by mutating a single amino acid in the protein. 
 
-Your goal is to train a model that can predict the fitness of a single mutation.
+Your goal is to train a model that can predict the fitness of a single mutation. We have provided a basic implementation that achieves this task: your goal is to try and improve it.
 
 The setup is such that a single model is trained to predict the mutation effects for one protein (one experiment file). For each protein, a train/validation/test split is created by assigning each position in the protein sequence to a different split. 
 
