@@ -24,6 +24,9 @@ After completing registration on Saturn Cloud, please follow these instructions 
 
   <img src='../images/saturn-resources.jpg' width='460'>
 
+If you cannot see the resource on your dashboard try the following link instead:
+https://app.community.saturnenterprise.io/dash/o/HDRUK/resources?templateId=03387dcd739a4edab95a43bbd2a5a27e
+
 4. After clicking on this resource open the `manage` tab and scroll down to the `Clone Resource` section and then click `clone as a Python server`
 
 5. Click the `Start` button - it may take up to 5 minutes for the server to start up.
