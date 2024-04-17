@@ -27,7 +27,7 @@ For us to evaluate your model it has to work with the DataLoader that we have im
 
 Outside of that, you are welcome to change any other aspects of the model architecture or how the model is trained including the number of epochs, stopping criterion, loss function, optimizer, and learning rate schedule.
 
-We do require that your model training and evaluation completes within 3 hours on all of our 10 test datasets. In order to test this, please make sure that you can run training and evaluation on the `HUMAN` experiment within 30 minutes.
+We do require that your model training and evaluation completes within 2 hours on all of our 10 test datasets. In order to test this, please make sure that you can run training and evaluation on the `HUMAN` experiment within 10 minutes.
 
 ## Evaluation protocol
 
